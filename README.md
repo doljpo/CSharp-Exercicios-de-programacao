@@ -1,4 +1,3 @@
-# exercicios-programacao-1
 Desenvolvida em .netcore Console Application, a aplicação resolve alguns exercícios propostos e possui um sistema de navegação pelo teclado acessando opções de um menu em interface console.
 
 Exemplo de menu de navegação (menu inicial):
@@ -19,14 +18,16 @@ Exemplo de menu de navegação (menu inicial):
 
 Exercícios propostos:
 
-1 - Crie um método que receba n números decimais e calcule a média, a mediana e o
+1) Crie um método que receba n números decimais e calcule a média, a mediana e o
 conceito desta lista. Os três valores devem ser retornados.
 Conceito deve utilizar a média e ser calculado da seguinte forma:
-A >= 9,0
-B >= 7,5 e < 9,0
-C >= 6,0 e < 7,5
-D >= 4,0 e < 6,0
-E < 4,0
+
+     A >= 9,0
+     B >= 7,5 e < 9,0
+     C >= 6,0 e < 7,5
+     D >= 4,0 e < 6,0
+     E < 4,0
+     
 -----------
 2 - Desenvolva uma solução que simule um caixa eletrônico e que permita ao cliente
 efetuar um saque. Os requisitos básicos são os seguintes:
