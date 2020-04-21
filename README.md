@@ -22,10 +22,10 @@ Exercícios propostos:
 conceito desta lista. Os três valores devem ser retornados.
 Conceito deve utilizar a média e ser calculado da seguinte forma:
 
-     A >= 9,0
-     B >= 7,5 e < 9,0
-     C >= 6,0 e < 7,5
-     D >= 4,0 e < 6,0
+     A >= 9,0;
+     B >= 7,5 e < 9,0;
+     C >= 6,0 e < 7,5;
+     D >= 4,0 e < 6,0;
      E < 4,0
      
 -----------
