@@ -44,8 +44,8 @@ efetuar um saque. Os requisitos básicos são os seguintes:
 3 - Em um banco já existente, existe uma tabela com nome TPEOPLE, nessa tabela existem
 as seguintes colunas: CPERSON_ID, CCODE, CFULL_NAME, CDOCUMENT, CBORN_DATE;
 
-a) Crie uma query que selecione todos os registros que contém “Rodr” no Nome Completo e ordene os resultados pelo Documento;
-b) Crie uma query que selecione todos os registros da tabela TPEOPLE onde a idade seja maior que 20 anos;
+* Crie uma query que selecione todos os registros que contém “Rodr” no Nome Completo e ordene os resultados pelo Documento;
+* Crie uma query que selecione todos os registros da tabela TPEOPLE onde a idade seja maior que 20 anos;
 
 -----------
 
