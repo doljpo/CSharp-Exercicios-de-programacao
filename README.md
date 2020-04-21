@@ -2,6 +2,7 @@
 Desenvolvida em .netcore Console Application, a aplicação resolve alguns exercícios propostos e possui um sistema de navegação pelo teclado acessando opções de um menu em interface console.
 
 Exemplo de menu de navegação (menu inicial):
+
       *******************************************
       ******** Menu de Acesso aos Testes ********
       *******************************************
