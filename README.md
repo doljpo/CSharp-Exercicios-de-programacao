@@ -29,7 +29,8 @@ Conceito deve utilizar a média e ser calculado da seguinte forma:
      E < 4,0
      
 -----------
-2 - Desenvolva uma solução que simule um caixa eletrônico e que permita ao cliente
+
+2) Desenvolva uma solução que simule um caixa eletrônico e que permita ao cliente
 efetuar um saque. Os requisitos básicos são os seguintes:
 
     ● Entregar o menor número de notas possível;
@@ -37,7 +38,9 @@ efetuar um saque. Os requisitos básicos são os seguintes:
     ● Saldo do cliente infinito;
     ● Quantidade de notas infinito;
     ● Notas disponíveis de R$ 100,00; R$ 50,00; R$ 20,00; R$ 10,00; R$ 5,00; R$ 2,00;
+    
 -----------
+
 3 - Em um banco já existente, existe uma tabela com nome TPEOPLE, nessa tabela existem
 as seguintes colunas: CPERSON_ID, CCODE, CFULL_NAME, CDOCUMENT, CBORN_DATE;
 
