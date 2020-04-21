@@ -53,10 +53,11 @@ as seguintes colunas: CPERSON_ID, CCODE, CFULL_NAME, CDOCUMENT, CBORN_DATE;
 testar e o método deu erro em sua única linha, você ficou encarregado de arrumar e
 recebeu apenas os seguintes dados:
 
-InvalidOperationException: “A sequência não contém elementos”
+***
+*InvalidOperationException: “A sequência não contém elementos”
 
 public Person GetFirst(List<Person> people) {
-       return people.First();
-}
+     return people.First();
+ }
   
-Descreva em código três maneiras de resolução do erro para ajudar Luke;
+* Descreva em código três maneiras de resolução do erro para ajudar Luke;
