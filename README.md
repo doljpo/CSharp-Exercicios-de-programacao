@@ -33,11 +33,11 @@ Conceito deve utilizar a média e ser calculado da seguinte forma:
 2) Desenvolva uma solução que simule um caixa eletrônico e que permita ao cliente
 efetuar um saque. Os requisitos básicos são os seguintes:
 
-    ● Entregar o menor número de notas possível;
-    ● Só deve ser possível sacar o valor solicitado com as notas disponíveis;
-    ● Saldo do cliente infinito;
-    ● Quantidade de notas infinito;
-    ● Notas disponíveis de R$ 100,00; R$ 50,00; R$ 20,00; R$ 10,00; R$ 5,00; R$ 2,00;
+* Entregar o menor número de notas possível;
+* Só deve ser possível sacar o valor solicitado com as notas disponíveis;
+* Saldo do cliente infinito;
+* Quantidade de notas infinito;
+* Notas disponíveis de R$ 100,00; R$ 50,00; R$ 20,00; R$ 10,00; R$ 5,00; R$ 2,00;
     
 -----------
 
